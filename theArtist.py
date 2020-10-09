@@ -8,8 +8,8 @@ import tkinter.filedialog
 
 import pdfkit
 
-from ImageInput import ImageInput
-from ImageOutput import ImageOutput
+from Picture import ImageInput
+from Picture import ImageOutput
 
 
 class GraphicalUI:
